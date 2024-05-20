@@ -1,0 +1,19 @@
+{
+  "name": "marium-siddikey-simple_calculator",
+  "version": "1.0.0",
+  "description": "\"simple calculator\"",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.22",
+    "save-dev": "^0.0.1-security",
+    "undici-types": "^5.26.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
